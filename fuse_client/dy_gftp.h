@@ -1,4 +1,4 @@
-#define GRID_SERVER_URL "ftp://didclab-ws12.cse.buffalo.edu"
+#define GRID_SERVER_URL "didclab-ws9.cse.buffalo.edu"
 
 int dy_gftp_init();
 int dy_gftp_read();
